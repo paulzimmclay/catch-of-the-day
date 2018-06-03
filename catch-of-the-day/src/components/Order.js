@@ -1,5 +1,4 @@
 import React from "react"
-import Inventory from "./Inventory"
 
 class Order extends React.Component {
   render() {
